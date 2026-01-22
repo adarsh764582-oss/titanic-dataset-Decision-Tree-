@@ -44,8 +44,6 @@ EDA was performed to understand:
 ## 🛠 Data Preprocessing
 - Missing values handled:
   - `Age`: filled with median
-  - `Embarked`: filled with mode
-  - `Cabin`: dropped
 - Categorical variables encoded using **One-Hot Encoding**
 - Features scaled implicitly (not required for Decision Tree)
 
@@ -63,8 +61,6 @@ EDA was performed to understand:
 - Accuracy: ~1.0%
 - Model evaluation using:
   - Accuracy Score
-  - Confusion Matrix
-  - Classification Report
 
 ---
 
@@ -81,4 +77,4 @@ EDA was performed to understand:
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-decision-tree.git
+   https://github.com/adarsh764582-oss/titanic-dataset-Decision-Tree
