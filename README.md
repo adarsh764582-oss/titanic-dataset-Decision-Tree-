@@ -13,7 +13,7 @@ This project analyzes passenger data and builds a machine learning model to pred
 ## 📂 Dataset
 - Source: Kaggle Titanic Dataset
 - Files used:
-  - `train.csv`
+  - `tested.csv`
 
 ### Key Features
 - `Survived` (Target Variable)
